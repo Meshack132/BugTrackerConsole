@@ -1,0 +1,17 @@
+C:\Users\E1009615\Dev\BugTrackerConsole\bin\Debug\net9.0\BugTrackerConsole.exe
+C:\Users\E1009615\Dev\BugTrackerConsole\bin\Debug\net9.0\BugTrackerConsole.deps.json
+C:\Users\E1009615\Dev\BugTrackerConsole\bin\Debug\net9.0\BugTrackerConsole.runtimeconfig.json
+C:\Users\E1009615\Dev\BugTrackerConsole\bin\Debug\net9.0\BugTrackerConsole.dll
+C:\Users\E1009615\Dev\BugTrackerConsole\bin\Debug\net9.0\BugTrackerConsole.pdb
+C:\Users\E1009615\Dev\BugTrackerConsole\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.csproj.AssemblyReference.cache
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.AssemblyInfoInputs.cache
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.AssemblyInfo.cs
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.csproj.CoreCompileInputs.cache
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrack.286EFB9D.Up2Date
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.dll
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\refint\BugTrackerConsole.dll
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.pdb
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\BugTrackerConsole.genruntimeconfig.cache
+C:\Users\E1009615\Dev\BugTrackerConsole\obj\Debug\net9.0\ref\BugTrackerConsole.dll
